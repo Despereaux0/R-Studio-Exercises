@@ -1,0 +1,23 @@
+#Practice Problems
+#1. Consider A=matrix(c(2,0,1,3), ncol=2) and B=matrix(c(5,2,4,-1), ncol=2).
+# a) Find A + B
+# b) Find A - B
+#2. Find the solution for aA where a=3
+#3.Find the solution for Ab,where b=c(7,4).
+#4. Create three vectors v1,v2,v3 with integers and each vector has 3 elements.s
+# a vector and name it. Check if V is a vector or matrix.
+#5. Create a 5X2 two dimensional array with multiples of 5 values
+#, , 1
+# [,1] [,2]
+#[1,] 0 25
+#[2,] 5 30
+#[3,] 10 35
+#[4,] 15 40
+#[5,] 20 45
+#, , 2
+# [,1] #[,2]
+#[1,] 50 75
+#[2,] 55 0
+#[3,] 60 85
+#[4,] 65 90
+#[5,] 70 95
